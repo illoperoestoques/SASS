@@ -1,0 +1,32 @@
+.listaCompra li:nth-child(1) {
+  color: red;
+}
+.listaCompra li:nth-child(2) {
+  color: white;
+}
+.listaCompra li:nth-child(3) {
+  color: red;
+}
+.listaCompra li:nth-child(4) {
+  color: white;
+}
+.listaCompra li:nth-child(5) {
+  color: red;
+}
+.listaCompra li:nth-child(6) {
+  color: white;
+}
+.listaCompra li:nth-child(7) {
+  color: red;
+}
+.listaCompra li:nth-child(8) {
+  color: white;
+}
+.listaCompra li:nth-child(9) {
+  color: red;
+}
+.listaCompra li:nth-child(10) {
+  color: white;
+}
+
+/*# sourceMappingURL=my-styles.css.map */
