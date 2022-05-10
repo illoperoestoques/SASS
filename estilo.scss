@@ -1,0 +1,18 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: red;
+$secundary-color: black;
+
+@mixin theme($theme: DarkGray) {
+  background-color: $theme;
+  color: $primary-color;
+  border: 5px solid $secundary-color;
+
+}
+body{
+    color: red;
+}
+.tabla {
+  font: 100% $font-stack;
+  @include theme($theme: yellow);
+}
+
